@@ -1,0 +1,28 @@
+main {
+  display: flex;
+  justify-content: center;
+}
+.navigation {
+  background-color: rgba(0, 0, 0, 0.722);
+  display: flex;
+  padding: 10px;
+  border-radius: 20px;
+  gap: 20px;
+  width: 420px;
+}
+
+img {
+  height: 20px;
+}
+
+.nav__input {
+  color: white;
+  border-radius: 10px;
+  padding: 0 15px;
+  height: 25px;
+  width: 45%;
+}
+
+.nav__button {
+  height: 20px;
+}
